@@ -72,7 +72,7 @@ def checkmoist(pin):
 
 
 
-bot = telepot.Bot('332595434:AAFo5VxjrKs_uXYwQjcbWyBjEPS4m1YYuDw')
+bot = telepot.Bot('insert key here')
 bot.message_loop(handle)
 print 'I am listening...'
 while 1:
