@@ -14,6 +14,8 @@ This project aims to use Python scripting to automate menial functions like swit
 1. Open main.py which contains all the code needed.
 2. Burn the code file to the microSD card as an image. Insert the card onto the board.
 3. Connect Raspberry Pi to your computer via the USB. Boot it up and interface using Putty or any other serial terminal.
+4. If you have the LEDs, motors and fans, use them to see the changes visually.
+5. Use Telebot to send the commands (which can be changed in the code) and observe the changes in lights and motors.
 
 ### Alternate way:
 
@@ -24,3 +26,5 @@ This project aims to use Python scripting to automate menial functions like swit
 1. Abhinandan A R
 2. Chandan B K
 3. Devaraj K
+
+Built in May 2017
